@@ -1,0 +1,14 @@
+.flashy {
+color: red;
+font-style: italic;
+}
+
+li {
+  font-size: 20px;
+}
+
+.best {
+  color: purple;
+  font-style: oblique;
+  font-weight: bold;
+}
